@@ -5,10 +5,18 @@ public:
     int m = matrix[0].size();
     for (int i = 0; i < n; i++)
     {
-        for (int j = 0; j < m; j++)
-        {
-            if (matrix[i][j] == target) {
-                return true;
+        if (matrix[i][m-1] >= target) {
+            int low = 0, high = m-1;
+            int mid;
+            while (low <= high) {
+                mid = (low + high) / 2;
+                if (matrix[i][mid] == target) {
+                    return true;
+                } else if (matrix[i][mid] < target) {
+                    low = mid + 1;
+                } else {
+                    high = mid - 1;
+                }
             }
         }
     }
