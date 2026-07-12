@@ -10,6 +10,7 @@ My LeetCode solutions and DSA journey.
 | [0004-median-of-two-sorted-arrays](https://github.com/Susankit/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/Susankit/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Susankit/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/Susankit/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,6 +21,7 @@ My LeetCode solutions and DSA journey.
 | [0004-median-of-two-sorted-arrays](https://github.com/Susankit/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/Susankit/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Susankit/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/Susankit/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -30,4 +32,5 @@ My LeetCode solutions and DSA journey.
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Susankit/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Susankit/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/Susankit/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 <!---LeetCode Topics End-->
