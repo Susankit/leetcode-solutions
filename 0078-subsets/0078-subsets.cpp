@@ -1,8 +1,9 @@
 class Solution {
 public:
-    vector <vector <int>> ans;
-    vector <int> ds;
+    vector <vector <int>> ans; // THIS NEW VECTOR OF VECTORS WILL STORE THE ANSWER 
+    vector <int> ds; // THIS VECTOR IS TO STORE THE CURRENT SUBSET
  
+    // THIS FUNCTION WILL GENERATE ALL SUBSETS AND ADD IT TO ANS.
     void allSubsets (int i, vector <int>& nums) {
         if (i == nums.size()) {
             ans.push_back(ds);
