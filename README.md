@@ -9,6 +9,7 @@ My LeetCode solutions and DSA journey.
 | [0001-two-sum](https://github.com/Susankit/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Susankit/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/Susankit/leetcode-solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Susankit/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Susankit/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Susankit/leetcode-solutions/tree/master/0078-subsets) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Susankit/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -39,6 +40,7 @@ My LeetCode solutions and DSA journey.
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Susankit/leetcode-solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Susankit/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Susankit/leetcode-solutions/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
