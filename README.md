@@ -8,6 +8,7 @@ My LeetCode solutions and DSA journey.
 | ------- |
 | [0001-two-sum](https://github.com/Susankit/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Susankit/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0037-sudoku-solver](https://github.com/Susankit/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Susankit/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Susankit/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Susankit/leetcode-solutions/tree/master/0046-permutations) |
@@ -21,6 +22,7 @@ My LeetCode solutions and DSA journey.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Susankit/leetcode-solutions/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/Susankit/leetcode-solutions/tree/master/0037-sudoku-solver) |
 ## Binary Search
 |  |
 | ------- |
@@ -36,12 +38,14 @@ My LeetCode solutions and DSA journey.
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Susankit/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/Susankit/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Susankit/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/Susankit/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Susankit/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Susankit/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Susankit/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Susankit/leetcode-solutions/tree/master/0046-permutations) |
