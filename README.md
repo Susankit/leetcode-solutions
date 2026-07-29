@@ -57,4 +57,16 @@ My LeetCode solutions and DSA journey.
 | ------- |
 | [0078-subsets](https://github.com/Susankit/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Susankit/leetcode-solutions/tree/master/0090-subsets-ii) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Susankit/leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Susankit/leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Susankit/leetcode-solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
