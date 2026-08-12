@@ -9,33 +9,23 @@
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
+        if (headA == NULL || headB == NULL) {
+            return NULL;
+        }
         ListNode *t1 = headA, *t2 = headB;
-        int N1 = 0, N2 = 0;
-        while (t1 != NULL) {
-            N1++;
+        while (t1 != t2) {
             t1 = t1->next;
-        }
-        while (t2 != NULL) {
-            N2++;
             t2 = t2->next;
-        }
-        t1 = headA;
-        t2 = headB;
-        int d = max(N1, N2) - min(N1, N2);
-        for (int i=0; i<d; i++) {
-            if (N1 < N2) {
-                t2 = t2->next;
-            } else {
-                t1 = t1->next;
-            }
-        }
-        while (t1 != NULL && t2 != NULL) {
             if (t1 == t2) {
                 return t1;
             }
-            t1 = t1->next;
-            t2 = t2->next;
+            if (t1 == NULL) {
+                t1 = headB;
+            }
+            if (t2 == NULL) {
+                t2 = headA;
+            }
         }
-        return NULL;
+        return t1; 
     }
 };
