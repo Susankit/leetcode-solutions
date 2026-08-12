@@ -9,19 +9,33 @@
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-        map <ListNode *, int> mpp;
-        ListNode *temp1 = headA;
-        ListNode *temp2 = headB;
-        while (temp1 != NULL) {
-            mpp[temp1] = 1;
-            temp1 = temp1->next;
+        ListNode *t1 = headA, *t2 = headB;
+        int N1 = 0, N2 = 0;
+        while (t1 != NULL) {
+            N1++;
+            t1 = t1->next;
         }
-        while (temp2 != NULL) {
-            if(mpp.find(temp2) != mpp.end()) {
-                return temp2;
+        while (t2 != NULL) {
+            N2++;
+            t2 = t2->next;
+        }
+        t1 = headA;
+        t2 = headB;
+        int d = max(N1, N2) - min(N1, N2);
+        for (int i=0; i<d; i++) {
+            if (N1 < N2) {
+                t2 = t2->next;
+            } else {
+                t1 = t1->next;
             }
-            temp2 = temp2->next;
+        }
+        while (t1 != NULL && t2 != NULL) {
+            if (t1 == t2) {
+                return t1;
+            }
+            t1 = t1->next;
+            t2 = t2->next;
         }
         return NULL;
-     }
+    }
 };
