@@ -60,6 +60,7 @@ My LeetCode solutions and DSA journey.
 | ------- |
 | [0078-subsets](https://github.com/Susankit/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Susankit/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/Susankit/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Linked List
 |  |
 | ------- |
@@ -78,12 +79,14 @@ My LeetCode solutions and DSA journey.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Susankit/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/Susankit/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Susankit/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Susankit/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Susankit/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Susankit/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Susankit/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
