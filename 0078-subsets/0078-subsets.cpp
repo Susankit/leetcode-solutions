@@ -1,22 +1,18 @@
 class Solution {
 public:
-    vector <vector <int>> ans; // THIS NEW VECTOR OF VECTORS WILL STORE THE ANSWER 
-    vector <int> ds; // THIS VECTOR IS TO STORE THE CURRENT SUBSET
- 
-    // THIS FUNCTION WILL GENERATE ALL SUBSETS AND ADD IT TO ANS.
-    void allSubsets (int i, vector <int>& nums) {
-        if (i == nums.size()) {
-            ans.push_back(ds);
-            return;
-        }
-        ds.push_back(nums[i]);
-        allSubsets(i+1, nums);
-        ds.pop_back();
-        allSubsets(i+1, nums);
-    }
-
-    vector<vector<int>> subsets( vector<int>& nums) {
-        allSubsets(0, nums);
+    vector<vector<int>> subsets(vector<int>& nums) {
+        int n = nums.size();
+        int subsets = 1 << n;
+        vector <vector<int>> ans;
+        for (int num = 0; num<subsets; num++) {
+            vector <int> lists;
+            for (int i=0; i<n; i++) {
+                if ((num & (1 << i)) != 0){
+                    lists.push_back(nums[i]);
+                }
+            }
+            ans.push_back(lists);
+        } 
         return ans;
     }
 };
