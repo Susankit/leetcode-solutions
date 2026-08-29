@@ -16,6 +16,7 @@ My LeetCode solutions and DSA journey.
 | [0074-search-a-2d-matrix](https://github.com/Susankit/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Susankit/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Susankit/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Susankit/leetcode-solutions/tree/master/0136-single-number) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Susankit/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/Susankit/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Hash Table
@@ -60,6 +61,7 @@ My LeetCode solutions and DSA journey.
 | ------- |
 | [0078-subsets](https://github.com/Susankit/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Susankit/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Susankit/leetcode-solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Susankit/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Linked List
 |  |
