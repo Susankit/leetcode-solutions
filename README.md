@@ -19,6 +19,7 @@ My LeetCode solutions and DSA journey.
 | [0136-single-number](https://github.com/Susankit/leetcode-solutions/tree/master/0136-single-number) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Susankit/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0455-assign-cookies](https://github.com/Susankit/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Susankit/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [1901-find-a-peak-element-ii](https://github.com/Susankit/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Hash Table
 |  |
@@ -115,6 +116,7 @@ My LeetCode solutions and DSA journey.
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Susankit/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Susankit/leetcode-solutions/tree/master/0860-lemonade-change) |
 ## Sorting
 |  |
 | ------- |
